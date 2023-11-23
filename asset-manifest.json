@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-app/static/css/main.1bf7951b.css",
+    "main.js": "/pokemon-app/static/js/main.adfd0815.js",
+    "index.html": "/pokemon-app/index.html",
+    "main.1bf7951b.css.map": "/pokemon-app/static/css/main.1bf7951b.css.map",
+    "main.adfd0815.js.map": "/pokemon-app/static/js/main.adfd0815.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf7951b.css",
+    "static/js/main.adfd0815.js"
+  ]
+}
